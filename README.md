@@ -63,6 +63,8 @@ Through this project:
 - **Bootstrap** : (https://getbootstrap.com/)
 - **Axios** : (https://axios-http.com/docs/intro)
 - **Normalize** : (https://necolas.github.io/normalize.css/)
+- **google-fonts** : (https://fonts.google.com/selection/embed)
+- **challenge** : (https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
 
 ## Continued Development
 In the future, I plan to:
