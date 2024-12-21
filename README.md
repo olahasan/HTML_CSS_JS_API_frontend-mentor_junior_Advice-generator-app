@@ -50,6 +50,8 @@ Otherwise, all links will open in the same tab.
 Through this project:
 - how to deal with **postman** 
 - how to deal with **Axios(cdn)**
+- how to deal with **fontawesome**
+- how to deal with **Normalize.css**
 - practice Bootstrap5 and CSS with js
 - how to get All data.
 - how to collect between html, css, js, API, and Bootstrap5.
@@ -57,6 +59,9 @@ Through this project:
 
 ## helpful-links
 - **API** : (https://api.adviceslip.com/)
+- **fontawesome** : (https://fontawesome.com/)
+- **Axios** : (https://axios-http.com/docs/intro)
+- **Normalize** : (https://necolas.github.io/normalize.css/)
 
 ## Continued Development
 In the future, I plan to:
