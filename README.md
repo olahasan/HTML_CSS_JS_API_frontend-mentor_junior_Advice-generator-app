@@ -1,6 +1,6 @@
 # HTML_CSS_JS_API_frontend-mentor_junior_Advice-generator-app
 
-this is an API learning project ,trying to prictice API "GET" method like to (get a random advice with it's id ) , it contains html,css,Bootstrap5 and Js file.
+this is an API learning project ,trying to prictice API "GET" method like to (get a random advice with it's id ) , it contains html,css,Bootstrap and Js file.
  
 ## Table of contents
 
@@ -16,7 +16,7 @@ this is an API learning project ,trying to prictice API "GET" method like to (ge
 
 
 ## overview
-this is an API learning project ,trying to prictice API "GET" method like to (get a random advice with it's id ) , it contains html,css,Bootstrap5 and Js file.
+this is an API learning project ,trying to prictice API "GET" method like to (get a random advice with it's id ) , it contains html,css,Bootstrap and Js file.
 
 ## Installation
 To get started with this project, follow these steps:
@@ -51,15 +51,16 @@ Through this project:
 - how to deal with **postman** 
 - how to deal with **Axios(cdn)**
 - how to deal with **fontawesome**
-- how to deal with **Normalize.css**
-- practice Bootstrap5 and CSS with js
+- how to deal with **Normalize.css** 
+- practice Bootstrap and CSS with js
 - how to get All data.
-- how to collect between html, css, js, API, and Bootstrap5.
+- how to collect between html, css, js, API, and Bootstrap.
 - how to push it on github + gh-pages
 
 ## helpful-links
 - **API** : (https://api.adviceslip.com/)
 - **fontawesome** : (https://fontawesome.com/)
+- **Bootstrap** : (https://getbootstrap.com/)
 - **Axios** : (https://axios-http.com/docs/intro)
 - **Normalize** : (https://necolas.github.io/normalize.css/)
 
